@@ -474,7 +474,7 @@ define({ "api": [
       "examples": [
         {
           "title": "Success-Response:",
-          "content": "{ \n    \"error\": false,\n    \"message\": \"Meetings Found and reminders sent\",\n    \"status\": 200,\n    \"data\": null\n}",
+          "content": "{  \n    \"error\": false,\n    \"message\": \"Meetings Found and reminders sent\",\n    \"status\": 200,\n    \"data\": null\n}",
           "type": "object"
         }
       ]
